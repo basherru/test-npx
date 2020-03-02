@@ -1,0 +1,19 @@
+{
+  "name": "test-npx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basherru/test-npx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basherru/test-npx/issues"
+  },
+  "homepage": "https://github.com/basherru/test-npx#readme"
+}
